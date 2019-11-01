@@ -1,0 +1,55 @@
+commit df357a9dd7f1916ebd8bc9988966a22032733d1b
+Author: kanshuai <kanshuaiwang@gmail.com>
+Date:   Fri Nov 1 18:49:45 2019 -0400
+
+    files modified by kw2606
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..773a6df
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1 @@
++*.dat
+diff --git a/README.md b/README.md
+deleted file mode 100644
+index 983a3ca..0000000
+--- a/README.md
++++ /dev/null
+@@ -1 +0,0 @@
+-# DS-GA--1007-HW06-
+\ No newline at end of file
+diff --git a/dir1/innerfile.txt b/dir1/innerfile.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/myfile.txt b/myfile.txt
+index e69de29..2521c9c 100644
+--- a/myfile.txt
++++ b/myfile.txt
+@@ -0,0 +1 @@
++changing content.
+
+commit eea9afb2facfd492e70af2d179b45522e5a35ae8
+Author: kanshuai <kanshuaiwang@gmail.com>
+Date:   Fri Nov 1 18:41:54 2019 -0400
+
+    First Commit
+
+diff --git a/myfile.txt b/myfile.txt
+new file mode 100644
+index 0000000..e69de29
+
+commit ab35e963c68d6abdea7f13d4d07db95f7d6b41ac
+Author: kanshuai <56613883+kanshuai@users.noreply.github.com>
+Date:   Fri Nov 1 18:40:04 2019 -0400
+
+    Initial commit
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..983a3ca
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# DS-GA--1007-HW06-
+\ No newline at end of file
